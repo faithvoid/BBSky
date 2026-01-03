@@ -1,5 +1,7 @@
 # BBSky
 Telnet server for Bluesky, for connecting to Bluesky on retro computers.
+![](screenshots/1.jpeg)
+![](screenshots/2.jpeg)
 
 ## Connection
 - In your telnet terminal of choice, connect to "placeholder:23"
